@@ -1,0 +1,23 @@
+{
+  "name": "cssgrid",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/camilova1/cssgrid.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/camilova1/cssgrid/issues"
+  },
+  "homepage": "https://github.com/camilova1/cssgrid#readme",
+  "devDependencies": {
+    "laravel-mix": "^5.0.5"
+  }
+}
